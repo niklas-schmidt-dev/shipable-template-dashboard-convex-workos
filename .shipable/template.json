@@ -1,0 +1,14 @@
+{
+  "id": "dashboard-convex-workos",
+  "name": "Operations Dashboard",
+  "description": "A Convex-backed B2B operations dashboard with WorkOS AuthKit sign-in and authenticated realtime queries.",
+  "category": "Business",
+  "tags": ["dashboard", "metrics", "operations", "convex", "workos", "authkit"],
+  "familyId": "dashboard",
+  "variantLabel": "Convex + WorkOS",
+  "sortOrder": 22,
+  "aliases": ["convex-workos", "workos-dashboard"],
+  "promptPlaceholder": "A B2B SaaS operations dashboard with WorkOS AuthKit, customer health, incidents, and follow-up tasks.",
+  "preview": "",
+  "status": "active"
+}
